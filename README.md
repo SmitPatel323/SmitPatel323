@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **temp25873@gmail.com**
 
-- ⚡ Fun fact **I overthink, but it fuels my problem-solving!**
+- ⚡ Fun fact "**I overthink, but it fuels my problem-solving!**"
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

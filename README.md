@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Smit Patel</h1>
-<h3 align="center">"2nd Year Tech Enthusiast | Exploring New Skills & Building Cool Stuff"</h3>
+<h3 align="center">"3rd Year Tech Enthusiast | Exploring New Skills & Building Cool Stuff"</h3>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **.NET**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SmitPatel323](https://github.com/SmitPatel323)
 
